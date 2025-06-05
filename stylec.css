@@ -47,7 +47,7 @@ footer {
     font-size: 50px;
 }
 
-img:hover {
+article img:hover {
     border: 5px solid blue;
     transition: all 0.2s linear;
 }
